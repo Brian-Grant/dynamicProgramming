@@ -1,0 +1,19 @@
+Brian Grant
+
+lcs.cpp implements the longest common subsequence algorithm, 
+	to compare any two strings
+
+floyd.cpp implements Floyd's all pairs shortest paths algorithm. 
+	First a randomly generated undirected complete weighted graph
+
+run "make" to compile both programs
+
+run "make testl" to run 4 tests on the LCS
+
+run "./lcs <string1> <string2>" to test any two strings on LCS
+
+run "make testf" to run one test on FLOYDS
+
+run "./floyd" to do the same thing as "make testf"
+
+run "make clean" to remove object files and executables
